@@ -1,0 +1,5 @@
+name: canard
+
+build:
+  cmake: zephyr/
+  kconfig: zephyr/Kconfig
