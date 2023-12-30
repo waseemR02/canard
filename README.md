@@ -2,6 +2,8 @@
 
 Minimal implementation of the DroneCAN protocol stack in C for resource constrained applications.
 
+Also includes can frames and filters for **[R24](https://github.com/waseemr02/kyvernitis)** rover stack without using dronecan.
+
 Get help on the **[DroneCAN Forum](https://dronecan.org/discord)**.
 
 ## Usage
