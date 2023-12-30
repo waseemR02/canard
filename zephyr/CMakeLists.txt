@@ -1,4 +1,5 @@
 if(CONFIG_CANARD)
-    add_subdirectory(.. build)
+    set(CANARD_DIR ${ZEPHYR_CURRENT_MODULE_DIR})
+    zephyr_include_directories(${CANARD_DIR})
     zephyr_library()
 endif()
