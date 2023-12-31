@@ -2,7 +2,6 @@
 # SPDX-License-Identifier: Apache-2.0
 
 config CANARD
-	bool "Enable libsample"
+	bool "Enable libcanard"
 	help
-	  This option enables the libsample as a Zephyr module.
-
+	  This option enables the libcanard as a Zephyr module.
