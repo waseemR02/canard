@@ -12,6 +12,7 @@
 * Servos will range from 15 - 24
 */
 #define ACTUATOR_COMMAND_ID 10
+#define SENSOR_DATA_ID 30
 
 #define ROBOCLAW_BASE_ID 10
 #define SABERTOOTH_BASE_ID 12
