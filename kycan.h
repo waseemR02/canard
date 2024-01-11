@@ -1,9 +1,11 @@
 /*  
  * Contains macros for kyvernitis CAN.
  */
-
+#define LATTEPANDA_ID 0x100
 #define BIO_ARM_ID 0x300
-#define ARM_ID 0x200
+#define GRIPPER_ARM_ID 0x200
+#define ASTRO_ASSIST_ID 0x400
+#define FPV_SWITCH_ID 0x500 
 
 /*
 * Actuators will range from 10 - 25 
