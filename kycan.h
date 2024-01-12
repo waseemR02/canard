@@ -10,7 +10,7 @@
 /*
 * Actuators will range from 10 - 25 
 * Roboclaws- 2 
-* Sabertooths 3
+* Sabertooths 2
 * Servos will range from 15 - 24
 */
 #define ACTUATOR_COMMAND_ID 10
