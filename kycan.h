@@ -11,7 +11,9 @@
 * Actuators will range from 10 - 25 
 * Roboclaws- 2 
 * Sabertooths 2
-* Servos will range from 15 - 24
+* Servos will range from 15 - 19
+* DC motor will range from 25 - 28
+* Stepper motor will range from 20 - 21
 */
 #define ACTUATOR_COMMAND_ID 10
 #define SENSOR_DATA_ID 30
@@ -21,3 +23,4 @@
 #define SABERTOOTH_BASE_ID 12
 #define SERVO_BASE_ID 15
 #define L298N_BASE_ID 25
+#define STEPPER_BASE_ID 20
